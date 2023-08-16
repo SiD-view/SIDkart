@@ -86,7 +86,7 @@ public class OrderDetailServiceImpl implements OrderDetailService {
 		try {
 			MimeMessageHelper helper = new MimeMessageHelper(message, true, "UTF-8");
 			String content = "Hi, <b>" + name + "</b> Thank you for your order. PFB Order Details.<br>";
-			helper.setSubject("Dharmesh General Store: Order#" + OrderNum);
+			helper.setSubject("SIDkart: Order#" + OrderNum);
 			helper.setText(content, true);
 			helper.setTo(email);
 			helper.addCc(env.getProperty("mailToCc"));

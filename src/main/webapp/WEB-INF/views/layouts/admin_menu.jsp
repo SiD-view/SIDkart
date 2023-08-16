@@ -4,7 +4,7 @@
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			<h1 class="text-left mr-12">
 				<a href="${pageContext.request.contextPath}/admin/home" class="font-weight-bold font-italic" style="font-size: 22px;color:#F45C5D;">
-					<img src="${pageContext.request.contextPath}/images/logo2.png" class="img-fluid">&nbsp;Dharmesh General Store
+					<img src="${pageContext.request.contextPath}/images/logo2.png" class="img-fluid">&nbsp;SIDkart
 				</a>
 			</h1>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

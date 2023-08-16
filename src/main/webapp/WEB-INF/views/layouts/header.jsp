@@ -2,7 +2,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
 	<link rel='icon' href='/images/favicon.ico' type='image/x-icon'/>
-	<meta name="keywords" content="Dharmesh General Store, Dharmesh Store, General Store, Gokuldham Society, Dharmesh General Store Thane, Shop no.4, Grocery Shop" />
+	<meta name="keywords" content="SIDkart, Dharmesh Store, General Store, Gokuldham Society, SIDkart Thane, Shop no.4, Grocery Shop" />
 	<script>
 // 	console.log("clearing html storage.");
 	localStorage.clear();

@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.general.stores</groupId>
-	<artifactId>General_Stores</artifactId>
+	<artifactId>SIDkart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>General_Stores</name>
+	<name>SIDkart</name>
 	<description>General Stores</description>
 
 	<properties>

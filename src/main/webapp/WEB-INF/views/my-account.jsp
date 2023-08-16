@@ -9,7 +9,7 @@
 <c:if test="${empty email}">
 	<c:redirect url="${pageContext.request.contextPath}/user/sign-in"/>  
 </c:if>
-	<title>Dharmesh General Store | My Account </title>
+	<title>SIDkart | My Account </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

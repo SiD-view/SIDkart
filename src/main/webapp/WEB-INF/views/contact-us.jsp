@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Dharmesh General Store | Contact </title>
+	<title>SIDkart | Contact </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 	<style type="text/css">
 		
@@ -59,7 +59,7 @@
 							<i class="fas fa-map-marker-alt rounded-circle"></i>
 						</div>
 						<h4 class="font-weight-bold mt-sm-4 mt-3 mb-3">Address</h4>
-						<p style="font-weight: bold;color:black;">Dharmesh General Store
+						<p style="font-weight: bold;color:black;">SIDkart
 							<label style="font-weight: bold;color:black;">Shop No.4 Building No.51/B Gokuldham Society Goregaon(E), 400000</label>
 						</p>
 					</div>

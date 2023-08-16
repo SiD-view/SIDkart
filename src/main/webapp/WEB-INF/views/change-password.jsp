@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Dharmesh General Store | Change Password </title>
+	<title>SIDkart | Change Password </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

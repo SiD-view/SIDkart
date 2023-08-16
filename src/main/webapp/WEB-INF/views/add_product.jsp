@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Dharmesh General Store | Add Product </title>
+	<title>SIDkart | Add Product </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

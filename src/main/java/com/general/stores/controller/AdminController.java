@@ -216,7 +216,7 @@ public class AdminController {
 			}
 			SimpleMailMessage msg = new SimpleMailMessage();
 			msg.setTo(email);
-			msg.setSubject("Dharmesh General Store : Admin Forgot Password");
+			msg.setSubject("SIDkart : Admin Forgot Password");
 			msg.setText("Hi Your Password is: " + admin.getPassword());
 			mailSender.send(msg);
 			rda.addFlashAttribute("success", "success");

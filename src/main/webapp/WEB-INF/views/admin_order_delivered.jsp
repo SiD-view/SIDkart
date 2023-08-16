@@ -8,7 +8,7 @@
 <c:if test="${empty aemail}">
 	<c:redirect url="${pageContext.request.contextPath}/user/sign-in"/>  
 </c:if>
-	<title>Dharmesh General Store | Delivered Orders </title>
+	<title>SIDkart | Delivered Orders </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 	<link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet">
 <style type="text/css">

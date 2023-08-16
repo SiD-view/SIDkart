@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Dharmesh General Store | Products</title>
+<title>SIDkart | Products</title>
 <jsp:include page="layouts/header.jsp"></jsp:include>
 <link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet">
 <style type="text/css">

@@ -6,7 +6,7 @@
 				<div class="col-md-3 logo_agile mb-4">
 					<h1 class="text-center">
 						<a href="${pageContext.request.contextPath}/home" class="font-weight-bold font-italic" style="font-size: 22px;">
-							<img src="${pageContext.request.contextPath}/images/logo2.png" class="img-fluid">&nbsp;Dharmesh General Store
+							<img src="${pageContext.request.contextPath}/images/logo2.png" class="img-fluid">&nbsp;SIDkart
 						</a>
 					</h1>
 				</div>
