@@ -21,7 +21,7 @@
 										</a>
 									</li>
 									<li>|
-										<a class="" href="mailto:javahub018@gmail.com">
+										<a class="" href="mailto:sidha2k16@gmail.com">
 											<i class="far fa-envelope"></i>
 										</a>
 									</li>
@@ -29,7 +29,7 @@
 							</div>
 						</div>
 					<div class="col-md-6 mt-1 text-white text-right">
-					<a style="color:white;font-size:14px;" href="tel:+91 91121122000">Order Now</a>&nbsp;&nbsp;<i class="fas fa-phone mr-2" style="font-size:14px;"></i><a style="color:white;font-size:14px;" href="tel:+91 91121122000">+91 121 122 000</a>
+					<a style="color:white;font-size:14px;" href="tel:+91 91121122000">Order Now</a>&nbsp;&nbsp;<i class="fas fa-phone mr-2" style="font-size:14px;"></i><a style="color:white;font-size:14px;" href="tel:+91 91121122000">+91 9511613283</a>
 				</div>	
 			</div>
 		</div>

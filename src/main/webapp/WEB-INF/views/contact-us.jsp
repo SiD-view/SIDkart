@@ -60,7 +60,7 @@
 						</div>
 						<h4 class="font-weight-bold mt-sm-4 mt-3 mb-3">Address</h4>
 						<p style="font-weight: bold;color:black;">SIDkart
-							<label style="font-weight: bold;color:black;">Shop No.4 Building No.51/B Gokuldham Society Goregaon(E), 400000</label>
+							<label style="font-weight: bold;color:black;">At- Talewad, Tak-Akkalkkot, Dist-Solapur, Pin-Code : 413216</label>
 						</p>
 					</div>
 				</div>
@@ -70,9 +70,9 @@
 							<i class="fas fa-phone rounded-circle"></i>
 						</div>
 						<h4 class="font-weight-bold mt-sm-4 mt-3 mb-3">Call Us</h4>
-						<p style="font-weight: bold;color:black;"><a style="font-weight: bold;color:black;" href="tel:+91121122000">+(91) 121 122 000</a>
+						<p style="font-weight: bold;color:black;"><a style="font-weight: bold;color:black;" href="tel:+91121122000">+(91) 9511613283</a>
 						
-<!-- 							<label>+(91) 121 122 000</label> -->
+<!-- 							<label>+(91) 9511613283</label> -->
 						</p>
 					</div>
 				</div>
@@ -83,7 +83,7 @@
 						</div>
 						<h4 class="font-weight-bold mt-sm-4 mt-3 mb-3">Email</h4>
 						<p>
-							<a style="font-weight: bold;color:black;" href="mailto:javahub018@gmail.com">javahub018@gmail.com</a>
+							<a style="font-weight: bold;color:black;" href="mailto:sidha2k16@gmail.com">sidha2k16@gmail.com</a>
 						</p>
 					</div>
 				</div>
