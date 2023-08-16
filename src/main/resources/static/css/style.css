@@ -355,7 +355,7 @@ ul.multi-column-dropdown li a:hover {
 .carousel-item.item3,
 .carousel-item.item2,
 .carousel-item.item1 {
-    min-height: 640px;
+    min-height: 40px;
 }
 
 .w3l-space-banner {
@@ -2273,7 +2273,7 @@ div#testimonials h4.m-title {
     .carousel-item.item3,
     .carousel-item.item2,
     .carousel-item.item1 {
-        min-height: 500px;
+        min-height: 50px;
     }
     .product-new-top {
         font-size: 12px;
@@ -2406,7 +2406,7 @@ div#testimonials h4.m-title {
     .carousel-item.item3,
     .carousel-item.item2,
     .carousel-item.item1 {
-        min-height: 430px;
+        min-height: 40px;
     }
     h3.tittle-w3l {
         font-size: 36px;
@@ -2451,7 +2451,7 @@ div#testimonials h4.m-title {
         font-size: 13px;
     }
     .page-head_agile_info_w3l {
-        min-height: 200px;
+        min-height: 20px;
     }
     .test-tooltip:before {
         bottom: -10%;
@@ -2522,7 +2522,7 @@ div#testimonials h4.m-title {
     .carousel-item.item3,
     .carousel-item.item2,
     .carousel-item.item1 {
-        min-height: 400px;
+        min-height: 40px;
     }
 }
 
@@ -2542,7 +2542,7 @@ div#testimonials h4.m-title {
     .carousel-item.item3,
     .carousel-item.item2,
     .carousel-item.item1 {
-        min-height: 380px;
+        min-height: 30px;
     }
     .w3l-space-banner {
         padding-top: 4em;
@@ -2792,7 +2792,7 @@ div#testimonials h4.m-title {
     .carousel-item.item3,
     .carousel-item.item2,
     .carousel-item.item1 {
-        min-height: 300px;
+        min-height: 30px;
     }
     .carousel-caption h2,
     .carousel-caption h3 {
@@ -2928,7 +2928,7 @@ div#testimonials h4.m-title {
     .carousel-item.item3,
     .carousel-item.item2,
     .carousel-item.item1 {
-        min-height: 270px;
+        min-height: 20px;
     }
     h3.heading-tittle {
         font-size: 26px;
@@ -3055,7 +3055,7 @@ div#testimonials h4.m-title {
     .carousel-item.item3,
     .carousel-item.item2,
     .carousel-item.item1 {
-        min-height: 240px;
+        min-height: 20px;
     }
     h3.tittle-w3l {
         font-size: 26px;
